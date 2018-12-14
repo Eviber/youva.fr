@@ -1,3 +1,20 @@
+img {
+  width: 100%; }
+
+.video figure {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 0 0 20px; }
+
+.video iframe, .video object, .video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
 .navbar-default {
   background: #093750 !important;
   border: none !important; }
@@ -33,7 +50,8 @@ body {
     padding-bottom: 0.5em; }
 
 #page-content {
-  padding-bottom: 4em; }
+  padding-bottom: 4em;
+  font-size: 1.5em; }
 
 .page-stuff {
   padding-top: 2em;
