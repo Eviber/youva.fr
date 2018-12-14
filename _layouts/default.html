@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
-  <body>
+{% include head.html %}
+	<body>
 {% include header.html %}
-<section>
-{{content}}
-</section>
-{% include footer.html %}
-  </body>
+		<section>
+
+			<section>
+				<div class="jumbotron">
+					<div class="container">
+						{{site.description}}
+
+					</div>
+
+				</div>
+			</section>
+
+			<section id="page-content">
+				<div class="container">
+					{{content}}
+				</div>
+			</section>
+		</section>
+<!--		{% include footer.html %} -->
+	</body>
 
 </html>
