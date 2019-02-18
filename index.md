@@ -5,9 +5,9 @@ layout: default
 
 <br />
 
-You're seeing here the portfolio of Youva Gaudé, programming student and game developer. I live in Paris where I'm studying at [42](https://www.42.fr/), a unique school that put a great emphasis on autonomy and teamwork. I love creating stuff, whether it is via programming, music or game design.
+You're seeing here the portfolio of Youva Gaudé, programming student and game developer. I live in Paris where I'm studying at [42](https://www.42.fr/), a unique school that puts a great emphasis on autonomy and teamwork. I love creating stuff, whether it is via programming, music or game design.
 
-You can take a look at my résumé [here](https://github.com/Eviber/resume/raw/master/resume_youva_gaude.pdf) and you will find some of the projects I worked on below. If anything catches your eye, don't hesitate to [contact me](mailto:ygaude@student.42.fr).
+You can take a look at my résumé [here](http://youva.fr/resume_youva_gaude.pdf) and you will find some of the projects I worked on below. If anything catches your eye, don't hesitate to [contact me](mailto:contact@youva.fr).
 
 <br />
 
@@ -28,7 +28,7 @@ Ludum Dare 43 jam entry, theme was "Sacrifices must be made". We decided to try 
 
 ### [Netherflood](https://github.com/eviber/ldjam42/) ([Ludum Dare](https://ldjam.com/events/ludum-dare/42/nether-flood) - [itch.io](https://eviber.itch.io/netherflood))
 (2 developers group, made with LÖVE)
-Ludum Dare 42 jam entry, theme was "Runnning out of space". It's a fairly simple and abstract game, with very few assets. I worked on the gameplay, graphics and audio.
+Ludum Dare 42 jam entry, theme was "Running out of space". It's a fairly simple and abstract game, with very few assets. I worked on the gameplay, graphics and audio.
 
 ![netherflood screenshot](https://i.imgur.com/x741lS3.png)
 
