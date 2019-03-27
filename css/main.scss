@@ -23,6 +23,16 @@ img {
 	height: 100%;
 }
 
+.jumbotron {
+	padding-bottom:20px;
+}
+
+/*
+.container{
+	width: auto;
+	max-width: 900px;
+}
+*/
 .navbar-default{
 	background: #093750 !important;
 	border: none !important;
@@ -48,8 +58,9 @@ img {
 }
 body{
 	background-color: #022335 !important;
-	font-family: "Fira Mono" !important;
+	font-family: "Open Sans" !important;
 	color: #abc0ca !important;
+	text-align: justify;
 }
 .page-stuff{
 	a {
