@@ -8,7 +8,7 @@ layout: default
 
 You're seeing here the portfolio of Youva Gaudé, programming student and game developer. I live in Paris where I'm studying at [42](https://www.42.fr/), a unique school that puts a great emphasis on autonomy and teamwork. I love creating stuff, whether it is via programming, music or game design.
 
-You can take a look at my résumé <a href="http://youva.fr/resume_youva_gaude.pdf" target="_blank">here</a> and you will find some of the projects I worked on below. If anything catches your eye, don't hesitate to [hit me up](#footer).
+You can take a look at my résumé <a href="http://youva.fr/resume_youva_gaude.pdf" target="_blank">here</a> and you will find some of the projects I worked on below. If anything catches your eye, don't hesitate to hit me up.
 
 <br />
 

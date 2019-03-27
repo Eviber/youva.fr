@@ -18,6 +18,9 @@ img {
 .jumbotron {
   padding-bottom: 20px; }
 
+#footer {
+  min-height: 0; }
+
 /*
 .container{
 	width: auto;
