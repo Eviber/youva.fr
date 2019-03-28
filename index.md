@@ -42,11 +42,7 @@ These projects were made at [42 Paris](https://www.42.fr/). They are mostly peda
 (4 students group)
 Corewar is a fairly big project about making a VM able to host a death match between different small programs written in assembly that we call "champions". My part in the making of this project was mainly the visualizer which I made using SDL2. I also made some example champions.
 
-<div class="video">
-    <figure>
-		<iframe width="640" height="480" src="https://www.youtube.com/embed/Ty2P6FtErXk?rel=0" frameborder="0" allowfullscreen></iframe>
-	</figure>
-</div>
+{% include youtube.html url="https://www.youtube.com/embed/Ty2P6FtErXk?rel=0" %}
 
 <br />
 
@@ -54,11 +50,7 @@ Corewar is a fairly big project about making a VM able to host a death match bet
 (2 students group)
 Lem-in is about pathfinding and graph theory, more precisely the maximum flow problem. Given a certain graph, with an input, an output and a number of "ants", it will find the quickest way to bring all of them from the start to the end, while never having more than one ant per "room" (vertex) per turn. I worked on all the algorithm as well as the SDL2 visualizer.
 
-<div class="video">
-    <figure>
-		<iframe width="640" height="480" src="https://www.youtube.com/embed/aD20O2oQ1DQ?rel=0" frameborder="0" allowfullscreen></iframe>
-	</figure>
-</div>
+{% include youtube.html url="https://www.youtube.com/embed/aD20O2oQ1DQ?rel=0" %}
 
 <br />
 
