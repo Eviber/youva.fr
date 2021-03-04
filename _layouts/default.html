@@ -2,18 +2,20 @@
 <html>
 {% include head.html %}
 	<body>
-{% include header.html %}
 		<section>
+			<section class="container">
 
-			<section>
 				<div class="jumbotron">
 					<div class="container">
-						<h1>Youva Gaudé</h1>
-						<h3>Game Programmer Portfolio</h3>
-						<h4 style="text-align: right;">contact@youva.fr</h4>
+            <h1><a href="{{site.baseurl}}/">Youva Gaudé</a></h1>
+            <div style="display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap;">
+						  <h3>Game Programmer Portfolio</h3>
+						  <h4 style="text-align: right;">contact@youva.fr</h4>
+            </div>
 					</div>
 
 				</div>
+{% include header.html %}
 			</section>
 
 			<section id="page-content">
@@ -22,7 +24,6 @@
 				</div>
 			</section>
 		</section>
-		{% include footer.html %}
 	</body>
 
 </html>
