@@ -36,6 +36,8 @@ nav.social ul li a:hover { border: none; opacity: 50%; }
 
 .jumbotron h1 { font-size: 63px; }
 
+.jumbotron h1:hover { opacity: 50%; }
+
 .jumbotron a { color: unset; }
 
 .jumbotron a:hover { color: #d2d2d2; border: none; }
