@@ -29,7 +29,47 @@ hr {
 
 img {
 	width: 100%;
-	padding-bottom: 40px;
+}
+
+.project {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-left: 20px;
+	border-left: solid 2px;
+	margin-top: 20px;
+	margin-bottom: 60px;
+	h3 { margin-top: 0px; }
+	div {
+		flex-basis: 400px;
+		flex-grow: 1;
+		margin: auto 20px auto auto;
+		flex-shrink: 1;
+		//p { margin-bottom: 0; }
+	}
+	img, .video {
+		margin: auto 0;
+		flex-basis: 500px;
+		flex-grow: 1;
+		width: 0;
+	}
+}
+
+.project:nth-of-type(even) {
+	flex-direction: row-reverse;
+	padding-left: 0;
+	//padding-right: 20px;
+	border-left: none;
+	border-right: solid 2px;
+	div {
+		margin: auto 20px auto auto;
+		p:first-of-type, h3 {
+			//text-align: right;
+		}
+	}
+	img, .video {
+		margin-right: 20px;
+	}
 }
 
 nav.social {
@@ -56,7 +96,7 @@ nav.social {
 	padding-bottom: 56.25%;
 	height: 0;
 	overflow: hidden;
-	margin: 0 0 20px;
+	margin: auto;
 }
 
 .video iframe, .video object, .video embed {
